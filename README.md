@@ -7,8 +7,8 @@
 ## Instructions
 
 ### How to run the game:
-- You can play the game by going to the following link:
-- Or, by downloading the repository and run the file ```index.html ``` in your favoriate browser.  
+- You can play the game by going to the following link: https://7mdb.github.io/ClassicArcadeGame/
+- Or, by downloading the repository and run the file ```index.html ``` in your favourite browser.  
 ### rules:
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
